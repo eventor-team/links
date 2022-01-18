@@ -1,0 +1,2 @@
+- [Privacy policy](https://github.com/eventor-team/privacy-policy/blob/main/privacy-policy.md)
+- [Terms and Conditions](https://github.com/eventor-team/terms-and-conditions/blob/main/terms-and-conditions.md)
